@@ -60,7 +60,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 1.  **Projeyi klonlayın:**
     ```bash
-    git clone https://github.com/kullanici-adiniz/coolcut.git
+    git clone https://github.com/sametkoleoglu/coolcut.git
     cd coolcut
     ```
 
